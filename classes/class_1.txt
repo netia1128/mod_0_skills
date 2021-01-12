@@ -1,0 +1,13 @@
+Class: MenuItem
+
+Attributes:
+name (string)
+ingredients (array)
+price (float)
+is_available (boolean)
+
+Methods:
+change_name (updates name attribute)
+raise_price (increases price attribute)
+sell_out (changes is_available attrubute to false)
+add_ingredient (adds new item to ingredients attribute)
