@@ -1,0 +1,9 @@
+food = "bacon"
+is_delicious = true
+food = "cheeseburger"
+num2 = 2
+num7 = 7
+quotient = num7 / num2
+songs = ['i love songs', 'songs are great', 'so many songs']
+songs.delete_at(0)
+food.length
