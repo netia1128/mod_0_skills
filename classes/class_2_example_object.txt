@@ -1,0 +1,13 @@
+Instance: Bob
+
+Attributes:
+preferred_name = 'Bob'
+working_days = ['Monday', 'Tuesday', 'Wednesday']
+age = 20
+is_waiter = false
+
+Methods:
+change_name (changes name attribute to "Robert")
+add_working_day (adds 'Friday' to working_days array)
+has_birthday (age becomes 21)
+becomes_waiter (changes is_waiter to true)
