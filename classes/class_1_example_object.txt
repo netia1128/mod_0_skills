@@ -1,0 +1,13 @@
+Instance: Cheeseburger
+
+Attributes:
+name = "Cheeseburger"
+ingredients = ['bread', 'meat', 'cheese']
+price = 9.99
+is_available = true
+
+Methods:
+change_name (name becomes "Cheeseburger with Pickles"
+raise_price (add 1 to price, price becomes 10.99)
+sell_out (is_available becomes false)
+add_ingredient ('pickles' is appended to ingredients array)
