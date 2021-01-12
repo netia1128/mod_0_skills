@@ -1,0 +1,13 @@
+Class: Employee
+
+Attributes:
+preferred_name (string)
+working_days (array)
+age (integer)
+is_waiter (boolean)
+
+Methods:
+change_name (changes name attribute)
+add_working_day (adds a new day worked to the working_days attribute)
+has_birthday (adds 1 to the age attribute)
+becomes_waiter (changes is_waiter to true)
